@@ -4,6 +4,7 @@ Seja bem-vindo(a) ao meu perfil como Analista de Qualidade (QA). Abaixo, você e
 
 # Sobre mim
 Sou um profissional de QA com experiência em diversos aspectos do ciclo de testes de software, desde o planejamento e criação de casos de teste até a execução de testes funcionais e não-funcionais. Possuo habilidades técnicas em linguagem de programação Python, além de conhecimento em ferramentas e frameworks como Selenium, behave, Cucumber e Postman para testes de software Web e API. Também tenho experiência em testes de performance utilizando K6 e JMeter.
+Participo como palestrante: [Palestra no TDC em Porto Alegre](https://www.youtube.com/watch?v=tD_-TxjPxFI&feature=youtu.be&themeRefresh=1)
 
 # Habilidades e Conhecimentos
 Aqui estão algumas das habilidades e conhecimentos que possuo:
