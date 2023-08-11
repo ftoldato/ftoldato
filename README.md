@@ -67,4 +67,4 @@ E-mail: fernando.toldato@gmail.com
 
 LinkedIn: [fernandotoldato](https://www.linkedin.com/in/fernandotoldato/)
 
-Estou ansioso(a) para colaborar em projetos que envolvam qualidade e testes de software. Vamos juntos(as) elevar a excelência dos produtos e garantir a satisfação dos usuários! 🚀
+Estou ansioso para colaborar em projetos que envolvam qualidade e testes de software. Vamos juntos elevar a excelência dos produtos e garantir a satisfação dos usuários! 🚀
