@@ -63,8 +63,6 @@ Desenvolvimento de canais de comunicação para armazenar relatórios externos e
 
 Fique à vontade para entrar em contato comigo se precisar de suporte, tiver alguma pergunta ou desejar discutir oportunidades profissionais.
 
-E-mail: fernando.toldato@gmail.com
-
-LinkedIn: [fernandotoldato](https://www.linkedin.com/in/fernandotoldato/)
+E-mail: fernando.toldato@gmail.com ou blessedtechinnovations@gmail.com
 
 Estou ansioso para colaborar em projetos que envolvam qualidade e testes de software. Vamos juntos elevar a excelência dos produtos e garantir a satisfação dos usuários! 🚀
